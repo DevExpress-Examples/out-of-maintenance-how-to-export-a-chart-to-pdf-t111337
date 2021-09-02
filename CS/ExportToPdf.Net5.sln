@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ExportToPdf", "ExportToPdf\ExportToPdf.vbproj", "{F2832433-D945-48C8-B43A-5AE8026D2EA9}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportToPdf", "ExportToPdf\ExportToPdf.Net5.csproj", "{F2832433-D945-48C8-B43A-5AE8026D2EA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
