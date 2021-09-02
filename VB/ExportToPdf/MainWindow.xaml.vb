@@ -1,5 +1,4 @@
-﻿Imports Microsoft.VisualBasic
-Imports System.Diagnostics
+﻿Imports System.Diagnostics
 Imports System.IO
 Imports System.Windows
 Imports DevExpress.Xpf.Charts
@@ -8,6 +7,7 @@ Namespace ExportToPdf
 
 	Partial Public Class MainWindow
 		Inherits Window
+
 		Private PDFFile As String = "Output.pdf"
 		Public Sub New()
 			InitializeComponent()
